@@ -4,6 +4,13 @@
   "updated": "2026-09-04",
   "firmware": [
     {
+      "version": "1.4.1",
+      "date": "2026-09-04",
+      "note": "应用启动优化，提升应用兼容性与稳定性",
+      "path": "firmware/firefly-t1/v1.4.1/firmware.bin",
+      "size": 2092928
+    },
+    {
       "version": "1.4.0",
       "date": "2026-09-04",
       "note": "优化系统稳定性，修复已知问题，提升整体使用体验",
