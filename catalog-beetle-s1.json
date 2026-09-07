@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
   "device": "beetle-s1",
-  "updated": "2026-09-05",
+  "updated": "2026-09-08",
   "firmware": [
+    {
+      "version": "1.1.0",
+      "date": "2026-09-08",
+      "note": "热点宝中英文界面切换，内置WiFi热点应用",
+      "path": "firmware/beetle-s1/v1.1.0/firmware.bin",
+      "size": 3035008
+    },
     {
       "version": "1.0.0",
       "date": "2026-09-05",
