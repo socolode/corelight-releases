@@ -74,12 +74,12 @@
       "app_id": "wifi-send",
       "name": "热点通",
       "name_en": "WiFi",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "min_firmware_version": "1.4.0",
       "description": "通过 WiFi 热点网页上传管理图片文件",
       "icon": "📦",
-      "path": "apps/firefly-t1/wifi-send-1.0.0.zip",
-      "size": 716175
+      "path": "apps/firefly-t1/wifi-send-1.1.0.zip",
+      "size": 778517
     }
   ]
 }
