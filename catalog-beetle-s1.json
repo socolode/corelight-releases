@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
   "device": "beetle-s1",
-  "updated": "2026-09-08",
+  "updated": "2026-09-10",
   "firmware": [
+    {
+      "version": "1.1.1",
+      "date": "2026-09-10",
+      "note": "修复菜单反复切换/退出应用后进入错误应用问题",
+      "path": "firmware/beetle-s1/v1.1.1/firmware.bin",
+      "size": 3035744
+    },
     {
       "version": "1.1.0",
       "date": "2026-09-08",
@@ -40,6 +47,17 @@
       "icon": "📦",
       "path": "apps/beetle-s1/light-painter-1.0.0.zip",
       "size": 232220
+    },
+    {
+      "app_id": "light-painter-wifi",
+      "name": "无线绘",
+      "name_en": "Glow WiFi",
+      "version": "1.0.0",
+      "min_firmware_version": "1.4.0",
+      "description": "光绘棒 WiFi 版，支持手机网页远程控制",
+      "icon": "📦",
+      "path": "apps/beetle-s1/light-painter-wifi-1.0.0.zip",
+      "size": 241605
     },
     {
       "app_id": "palette",
