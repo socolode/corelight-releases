@@ -4,6 +4,13 @@
   "updated": "2026-09-10",
   "firmware": [
     {
+      "version": "1.1.2",
+      "date": "2026-09-10",
+      "note": "配置框架新增 output_voltage 默认12V",
+      "path": "firmware/beetle-s1/v1.1.2/firmware.bin",
+      "size": 3035760
+    },
+    {
       "version": "1.1.1",
       "date": "2026-09-10",
       "note": "修复菜单反复切换/退出应用后进入错误应用问题",
