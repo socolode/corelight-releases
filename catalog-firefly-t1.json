@@ -56,17 +56,6 @@
       "size": 233511
     },
     {
-      "app_id": "light-painter-fast",
-      "name": "光绘高速",
-      "name_en": "GlowFast",
-      "version": "1.0.0",
-      "min_firmware_version": "1.4.0",
-      "description": "高速光绘摄影应用，整图载入内存播放，图片尺寸建议 6MB 以内",
-      "icon": "📦",
-      "path": "apps/firefly-t1/light-painter-fast-1.0.0.zip",
-      "size": 234780
-    },
-    {
       "app_id": "light-painter-wifi",
       "name": "无线绘",
       "name_en": "Glow WiFi",
