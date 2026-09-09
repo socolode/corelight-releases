@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
   "device": "firefly-t1",
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "firmware": [
+    {
+      "version": "1.5.1",
+      "date": "2026-09-10",
+      "note": "修复菜单反复切换/退出应用后进入错误应用问题",
+      "path": "firmware/firefly-t1/v1.5.1/firmware.bin",
+      "size": 3032000
+    },
     {
       "version": "1.5.0",
       "date": "2026-09-08",
@@ -49,6 +56,17 @@
       "size": 233511
     },
     {
+      "app_id": "light-painter-fast",
+      "name": "光绘高速",
+      "name_en": "GlowFast",
+      "version": "1.0.0",
+      "min_firmware_version": "1.4.0",
+      "description": "高速光绘摄影应用，整图载入内存播放，图片尺寸建议 6MB 以内",
+      "icon": "📦",
+      "path": "apps/firefly-t1/light-painter-fast-1.0.0.zip",
+      "size": 234780
+    },
+    {
       "app_id": "light-painter-wifi",
       "name": "无线绘",
       "name_en": "Glow WiFi",
@@ -57,7 +75,7 @@
       "description": "光绘棒 WiFi 版，支持手机网页远程控制",
       "icon": "📦",
       "path": "apps/firefly-t1/light-painter-wifi-1.0.0.zip",
-      "size": 242810
+      "size": 242809
     },
     {
       "app_id": "palette",
