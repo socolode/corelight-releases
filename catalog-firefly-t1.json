@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "device": "firefly-t1",
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "firmware": [
     {
       "version": "1.5.0",
@@ -47,6 +47,17 @@
       "icon": "📦",
       "path": "apps/firefly-t1/light-painter-1.0.0.zip",
       "size": 233511
+    },
+    {
+      "app_id": "light-painter-wifi",
+      "name": "无线绘",
+      "name_en": "Glow WiFi",
+      "version": "1.0.0",
+      "min_firmware_version": "1.4.0",
+      "description": "光绘棒 WiFi 版，支持手机网页远程控制",
+      "icon": "📦",
+      "path": "apps/firefly-t1/light-painter-wifi-1.0.0.zip",
+      "size": 242810
     },
     {
       "app_id": "palette",
