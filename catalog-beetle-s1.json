@@ -81,12 +81,12 @@
       "app_id": "wifi-service",
       "name": "APP",
       "name_en": "APP",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "min_firmware_version": "1.4.0",
       "description": "手机 App 连接服务：手机连热点后经统一 API 直接驱动设备硬件（灯带 / 声动 / 光绘）",
       "icon": "📦",
-      "path": "apps/beetle-s1/wifi-service-0.5.0.zip",
-      "size": 88566
+      "path": "apps/beetle-s1/wifi-service-0.6.0.zip",
+      "size": 88755
     }
   ]
 }
