@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "platform": "android",
+  "package": "com.socolode.corelight",
+  "updated": "2026-10-15",
+  "latest": {
+    "version": "1.2.0",
+    "versionCode": 3,
+    "date": "2026-10-15",
+    "note": "新增光绘素材制作工具与底部工具页，支持两步裁剪向导、横竖刷参数调节与双指缩放预览",
+    "path": "mobile/android/corelight-v1.2.0.apk",
+    "size": 57463969,
+    "minSdk": 24,
+    "targetSdk": 36
+  },
+  "downloads": {
+    "github": "https://github.com/socolode/corelight-releases/raw/main/mobile/android/corelight-v1.2.0.apk",
+    "gitee": "https://gitee.com/socolode/corelight-releases/raw/main/mobile/android/corelight-v1.2.0.apk"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "versionCode": 3,
+      "date": "2026-10-15",
+      "note": "新增光绘素材制作工具与底部工具页，支持两步裁剪向导、横竖刷参数调节与双指缩放预览"
+    }
+  ]
+}
