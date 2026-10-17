@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "device": "beetle-s1",
-  "updated": "2026-10-14",
+  "updated": "2026-10-18",
   "firmware": [
     {
       "version": "1.1.2",
@@ -37,56 +37,45 @@
       "app_id": "color-wheel",
       "name": "色相环",
       "name_en": "Hue",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_firmware_version": "1.4.0",
       "description": "调节色相、饱和度、亮度控制 WS2812 灯棒颜色",
       "icon": "📦",
-      "path": "apps/beetle-s1/color-wheel-1.0.0.zip",
-      "size": 384704
+      "path": "apps/beetle-s1/color-wheel-1.0.1.zip",
+      "size": 384706
     },
     {
       "app_id": "light-painter",
       "name": "光绘棒",
       "name_en": "Glow",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_firmware_version": "1.4.0",
       "description": "专业光绘摄影应用，支持 BMP 图片逐行播放",
       "icon": "📦",
-      "path": "apps/beetle-s1/light-painter-1.0.0.zip",
-      "size": 232220
-    },
-    {
-      "app_id": "light-painter-wifi",
-      "name": "无线绘",
-      "name_en": "Glow WiFi",
-      "version": "1.0.1",
-      "min_firmware_version": "1.4.0",
-      "description": "光绘棒 WiFi 版，支持手机网页远程控制",
-      "icon": "📦",
-      "path": "apps/beetle-s1/light-painter-wifi-1.0.1.zip",
-      "size": 91909
+      "path": "apps/beetle-s1/light-painter-1.0.1.zip",
+      "size": 232464
     },
     {
       "app_id": "palette",
       "name": "调色盘",
       "name_en": "Tone",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "min_firmware_version": "1.4.0",
       "description": "从色板选择颜色，支持多种光效模式控制 WS2812 灯棒",
       "icon": "📦",
-      "path": "apps/beetle-s1/palette-1.1.0.zip",
+      "path": "apps/beetle-s1/palette-1.1.1.zip",
       "size": 161560
     },
     {
       "app_id": "wifi-service",
       "name": "APP",
       "name_en": "APP",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "min_firmware_version": "1.4.0",
       "description": "手机 App 连接服务：手机连热点后经统一 API 直接驱动设备硬件（灯带 / 声动 / 光绘）",
       "icon": "📦",
-      "path": "apps/beetle-s1/wifi-service-0.6.0.zip",
-      "size": 88755
+      "path": "apps/beetle-s1/wifi-service-0.6.1.zip",
+      "size": 98269
     }
   ]
 }
