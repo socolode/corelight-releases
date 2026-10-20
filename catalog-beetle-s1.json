@@ -70,12 +70,12 @@
       "app_id": "wifi-service",
       "name": "APP",
       "name_en": "APP",
-      "version": "0.8.1",
+      "version": "0.8.2",
       "min_firmware_version": "1.0.0",
       "description": "手机 App + 浏览器合并服务：连热点后 App 走统一 API 驱动硬件，浏览器打开 192.168.4.1 则是完整热点宝网页（素材管理/参数设置/灯光控制）",
       "icon": "📦",
-      "path": "apps/beetle-s1/wifi-service-0.8.1.zip",
-      "size": 238658
+      "path": "apps/beetle-s1/wifi-service-0.8.2.zip",
+      "size": 238699
     }
   ]
 }
