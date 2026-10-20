@@ -2,23 +2,29 @@
   "schemaVersion": 1,
   "platform": "android",
   "package": "com.socolode.corelight",
-  "updated": "2026-10-18",
+  "updated": "2026-10-20",
   "latest": {
-    "version": "1.2.1",
-    "versionCode": 2004,
-    "date": "2026-10-18",
-    "note": "光绘页新增「镜像播放（反向播放）」开关；修正「我的」页版本号显示",
+    "version": "1.2.3",
+    "versionCode": 2006,
+    "date": "2026-10-20",
+    "note": "我的页「联系我们」新增公众号「烁彩代码」入口",
     "abi": "arm64-v8a",
-    "path": "mobile/android/corelight-v1.2.1.apk",
-    "size": 20183160,
+    "path": "mobile/android/corelight-v1.2.3.apk",
+    "size": 20422045,
     "minSdk": 24,
     "targetSdk": 36
   },
   "downloads": {
-    "github": "https://github.com/socolode/corelight-releases/raw/main/mobile/android/corelight-v1.2.1.apk",
-    "china": "https://tools.socolode.cn/releases/mobile/android/corelight-v1.2.1.apk"
+    "github": "https://github.com/socolode/corelight-releases/raw/main/mobile/android/corelight-v1.2.3.apk",
+    "china": "https://tools.socolode.cn/releases/mobile/android/corelight-v1.2.3.apk"
   },
   "history": [
+    {
+      "version": "1.2.3",
+      "versionCode": 2006,
+      "date": "2026-10-20",
+      "note": "我的页「联系我们」新增公众号「烁彩代码」入口"
+    },
     {
       "version": "1.2.1",
       "versionCode": 2004,
