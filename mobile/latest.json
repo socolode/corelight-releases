@@ -1,24 +1,30 @@
 {
   "schemaVersion": 1,
   "platform": "android",
-  "package": "com.socolode.corelight",
-  "updated": "2026-10-20",
+  "package": "com.socolode.app",
+  "updated": "2026-10-22",
   "latest": {
-    "version": "1.2.4",
-    "versionCode": 2007,
-    "date": "2026-10-20",
-    "note": "「我的」页更名为「关于」",
+    "version": "1.2.5",
+    "versionCode": 2008,
+    "date": "2026-10-22",
+    "note": "更名为 Socolode，包名改为 com.socolode.app",
     "abi": "arm64-v8a",
-    "path": "mobile/android/corelight-v1.2.4.apk",
-    "size": 20422045,
+    "path": "mobile/android/socolode-v1.2.5.apk",
+    "size": 20422033,
     "minSdk": 24,
     "targetSdk": 36
   },
   "downloads": {
-    "github": "https://github.com/socolode/corelight-releases/raw/main/mobile/android/corelight-v1.2.4.apk",
-    "china": "https://tools.socolode.cn/releases/mobile/android/corelight-v1.2.4.apk"
+    "github": "https://github.com/socolode/socolode-releases/raw/main/mobile/android/socolode-v1.2.5.apk",
+    "china": "https://tools.socolode.cn/releases/mobile/android/socolode-v1.2.5.apk"
   },
   "history": [
+    {
+      "version": "1.2.5",
+      "versionCode": 2008,
+      "date": "2026-10-22",
+      "note": "更名为 Socolode，包名改为 com.socolode.app"
+    },
     {
       "version": "1.2.4",
       "versionCode": 2007,
