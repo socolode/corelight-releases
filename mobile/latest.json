@@ -4,21 +4,27 @@
   "package": "com.socolode.app",
   "updated": "2026-10-22",
   "latest": {
-    "version": "1.2.5",
-    "versionCode": 2008,
+    "version": "1.2.6",
+    "versionCode": 2009,
     "date": "2026-10-22",
-    "note": "更名为 Socolode，包名改为 com.socolode.app",
+    "note": "灯带默认亮度改为30%",
     "abi": "arm64-v8a",
-    "path": "mobile/android/socolode-v1.2.5.apk",
+    "path": "mobile/android/socolode-v1.2.6.apk",
     "size": 20422033,
     "minSdk": 24,
     "targetSdk": 36
   },
   "downloads": {
-    "github": "https://github.com/socolode/socolode-releases/raw/main/mobile/android/socolode-v1.2.5.apk",
-    "china": "https://tools.socolode.cn/releases/mobile/android/socolode-v1.2.5.apk"
+    "github": "https://github.com/socolode/socolode-releases/raw/main/mobile/android/socolode-v1.2.6.apk",
+    "china": "https://tools.socolode.cn/releases/mobile/android/socolode-v1.2.6.apk"
   },
   "history": [
+    {
+      "version": "1.2.6",
+      "versionCode": 2009,
+      "date": "2026-10-22",
+      "note": "灯带默认亮度改为30%"
+    },
     {
       "version": "1.2.5",
       "versionCode": 2008,
